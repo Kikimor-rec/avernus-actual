@@ -1,0 +1,8 @@
+2023/11/06-18:20:42.922526 7f3283fff700 Recovering log #950
+2023/11/06-18:20:42.935574 7f3283fff700 Delete type=3 #948
+2023/11/06-18:20:42.935648 7f3283fff700 Delete type=0 #950
+2023/11/06-18:20:50.797661 7f2fd9fa8700 Level-0 table #957: started
+2023/11/06-18:20:50.797697 7f2fd9fa8700 Level-0 table #957: 0 bytes OK
+2023/11/06-18:20:50.804559 7f2fd9fa8700 Delete type=0 #955
+2023/11/06-18:20:50.812554 7f2fd9fa8700 Manual compaction at level-0 from '!scenes!0GapHQZMKOGZ3bOg' @ 72057594037927935 : 1 .. '!scenes.walls!zkZqk8QdSQAG4u3H.ylckOjNCPpBQ26KT' @ 0 : 0; will stop at (end)
+2023/11/06-18:20:50.819612 7f2fd9fa8700 Manual compaction at level-1 from '!scenes!0GapHQZMKOGZ3bOg' @ 72057594037927935 : 1 .. '!scenes.walls!zkZqk8QdSQAG4u3H.ylckOjNCPpBQ26KT' @ 0 : 0; will stop at (end)
